@@ -53,7 +53,6 @@ SOURCELONG:My Pathfinder Campaign	SOURCESHORT:MPC	SOURCEWEB:http://www.mpcwebsit
 #the equipment modifier's KEY with this tag, not it's name.
 
 
-Lorebook		TYPE:Goods.Tools.Spellbook.Magic.Wondrous.Container	NUMPAGES:UNLIM	CONTAINS:*UNLIM|Paper=UNLIM|Scroll=UNLIM	PAGEUSAGE:max(SPELLLEVEL,1)	COST:0	WT:1	SOURCEPAGE:Equipment	SPROP:The book that can contain all the knowledge in the world.
 
 
 
