@@ -1,0 +1,60 @@
+# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
+CAMPAIGN:Maddremor Custom Data
+GAMEMODE:Pathfinder
+RANK:9
+GENRE:Fantasy
+BOOKTYPE:Homebrew
+SETTING:Homebrew
+TYPE:Homebrew.PathfinderHomebrew
+PUBNAMELONG:My Homebrew
+PUBNAMESHORT:Homebrew
+#PUBNAMEWEB:http://www.maddwebsite.com
+SOURCELONG:Maddremor Custom Data
+SOURCESHORT:MddData
+SOURCEWEB:http://www.maddwebsite.com
+SOURCEDATE:2008-01
+ISOGL:NO
+COPYRIGHT:
+
+#INFOTEXT:To display an Information in the Source Info section on the Source Materials tab, replace the text after 'INFOTEXT:' with your text and remove the '#'
+
+DATACONTROL:madd__datacontrols.lst
+ALIGNMENT:madd__align.lst
+STAT:madd__stats.lst
+SAVE:madd__saves.lst
+
+
+ABILITY:madd_abilities.lst
+ABILITYCATEGORY:madd_abilitycategories.lst
+BIOSET:madd_biosettings.lst
+CLASS:madd_classes.lst
+COMPANIONMOD:madd_companionmods.lst
+DEITY:madd_deities.lst
+DOMAIN:madd_domains.lst
+EQUIPMENT:madd_equip_arms_armor.lst
+EQUIPMENT:madd_equip_general.lst
+EQUIPMOD:madd_equipmods.lst
+ABILITY:madd_feats.lst
+KIT:madd_kits.lst
+LANGUAGE:madd_languages.lst
+ARMORPROF:madd_profs_armor.lst
+SHIELDPROF:madd_profs_shield.lst
+WEAPONPROF:madd_profs_weapon.lst
+RACE:madd_races.lst
+SKILL:madd_skills.lst
+SPELL:madd_spells.lst
+TEMPLATE:madd_templates.lst
+
+
+### You can hide TYPEs in the GUI - TYPEs are handy for organization, but some are only used for internal functions.
+#HIDETYPE:EQUIP|SpecialSuppressor
+#HIDETYPE:SKILL|Science
+#HIDETYPE:FEAT|Leadership
+
+#Remove the '#' in front of those lines referring to files that you actually want to load
+#Remember to set the GAMEMODE to the one you really want.
+#Options in the Open Source data are 35e, Modern, Pathfinder, Darwins_World_2.
+
+#If you use this framework to set up a dataset of your own, then you may want to rename the folder and files to something
+#different. Otherwise if you ever should install a newer version of PCGen into your existing directory or needed to re-install
+#your existing installation of PCGen, your changes would get overwritten and thus be lost.
