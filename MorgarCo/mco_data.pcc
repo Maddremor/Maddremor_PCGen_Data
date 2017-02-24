@@ -31,8 +31,9 @@ CLASS:mco_classes.lst
 COMPANIONMOD:mco_companionmods.lst
 DEITY:mco_deities.lst
 DOMAIN:mco_domains.lst
-EQUIPMENT:mco_equip_arms_armor.lst
+EQUIPMENT:mco_equip_arms.lst
 EQUIPMENT:mco_equip_general.lst
+EQUIPMENT:mco_equip_armor.lst
 EQUIPMOD:mco_equipmods.lst
 ABILITY:mco_feats.lst
 KIT:mco_kits.lst
